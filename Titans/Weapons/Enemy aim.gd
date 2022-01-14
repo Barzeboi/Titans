@@ -1,4 +1,6 @@
 extends Node2D
 
+onready var player = get_node("/root/Level1/Player")
+
 func _process(delta: float) -> void:
-	pass
+	look_at(player.position)

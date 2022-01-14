@@ -9,7 +9,7 @@ extents = Vector2( 6.33901, 2.33862 )
 [node name="Bullet" type="Area2D"]
 rotation = -1.5708
 collision_layer = 8
-collision_mask = 22
+collision_mask = 20
 script = ExtResource( 2 )
 __meta__ = {
 "_edit_group_": true

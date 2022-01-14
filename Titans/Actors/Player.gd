@@ -4,9 +4,9 @@ extends Actor
 export var HEALTH : = 100 
 var JUMPFORCE : = -900
 var Bullet = preload("res://Weapons/Bullet.tscn")
-var fire_rate = 13 #Fire rate 13 bullets per second
+var fire_rate = 9 #Fire rate 13 bullets per second
 onready var update_delta = 1.0 / fire_rate
-var current_time : float = 0
+var current_time : float = 0.0
 
 func _physics_process(delta):
 	var direction = get_direction()

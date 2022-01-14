@@ -29,8 +29,6 @@ func _process(delta: float) -> void:
 	if (current_time < update_delta):
 		return
 		
-		current_time = 0.0
-		shoot()
 
 func shoot():
 	var b = Bullet.instance()
