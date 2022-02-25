@@ -1,5 +1,5 @@
 This is Titans
 A side scrolling shooter game im working on
 
-it's quite barebones for now , as i haven't even gotten sprites for it yet 
-but it will become the game i want it to be!....eventually
+It is coming along quite well, as i am starting to get the sprites done
+and i feel i shall be able to finish it quite quickly when they are done!
